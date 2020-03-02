@@ -2,6 +2,7 @@
 #include <QQmlApplicationEngine>
 #include <QQuickStyle>
 #include <QQmlContext>
+#include <QtAndroid>
 
 #include "statusbar.h"
 #include "QMorse.h"
@@ -39,6 +40,8 @@ int main(int argc, char *argv[])
 	comMorse.setTreeMorse(treeMorse);
 
 	engine.rootContext()->setContextProperty("comMorse", &comMorse);
+
+	QtAndroid::hideSplashScreen();
 
 	return app.exec();
 }
