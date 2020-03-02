@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/HomeForm.qml</file>
+        <file>qml/MorseCode.qml</file>
+        <file>qml/Settings.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/white/baseline_menu_white_18dp.png</file>
+        <file>images/black/baseline_menu_black_18dp.png</file>
+        <file>images/white/baseline_clear_all_white_18dp.png</file>
+        <file>images/white/baseline_flash_off_white_18dp.png</file>
+        <file>images/white/baseline_flash_on_white_18dp.png</file>
+        <file>images/white/baseline_history_white_18dp.png</file>
+        <file>images/white/baseline_info_white_18dp.png</file>
+        <file>images/white/baseline_language_white_18dp.png</file>
+        <file>images/black/baseline_clear_all_black_18dp.png</file>
+        <file>images/black/baseline_flash_off_black_18dp.png</file>
+        <file>images/black/baseline_flash_on_black_18dp.png</file>
+        <file>images/black/baseline_history_black_18dp.png</file>
+        <file>images/black/baseline_info_black_18dp.png</file>
+        <file>images/black/baseline_language_black_18dp.png</file>
+        <file>images/black/baseline_swap_horiz_black_18dp.png</file>
+        <file>images/black/baseline_arrow_back_ios_black_18dp.png</file>
+        <file>images/white/baseline_arrow_back_ios_white_18dp.png</file>
+        <file>images/white/baseline_more_vert_white_48.png</file>
+        <file>images/white/baseline_swap_horiz_white_48dp.png</file>
+        <file>images/QMorse2.png</file>
+    </qresource>
+</RCC>
